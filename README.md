@@ -1,63 +1,54 @@
-# Hi, I'm Harsh Koli 👋
+# Harsh Koli
 
-**Data Engineer | Python | SQL | ETL Pipelines**
+**Data Analyst | AI & Data Engineering Extern** — Python · SQL · Power BI · ETL Pipelines
 
-Welcome to my GitHub! I'm a passionate data engineer building scalable 
-solutions for complex data challenges.
+MSc Data Science candidate (University of Essex) with hands-on experience in data pipeline development, statistical analysis, and stakeholder reporting. Currently building production-adjacent data extraction and validation pipelines at Extern, Inc.
 
-## 🎓 Education
-- **MSc Data Science** - University of Essex (2025-2026)
-- **BE Data Engineering** - University of Mumbai (2021-2024)
-
-## 💼 Experience
-- **AI & Data Engineering Extern** @ Extern, Inc. (Dec 2025 - Present)
-- **Data Analyst Intern** @ Trainity (Sep 2023 - Dec 2023)
-
-## 💻 Technical Skills
-
-**Languages:** Python, SQL, R  
-**Libraries:** pandas, numpy, scikit-learn, XGBoost, TensorFlow  
-**Databases:** PostgreSQL, MySQL  
-**Tools:** Docker, Git, Apache Airflow, Power BI, Jupyter  
-**Specializations:** Data Pipelines, ETL, Machine Learning, Data Quality
-
-## 📊 Featured Projects
-
-### 🏆 Credit Risk & Fraud Detection
-ML model for financial risk prediction
-- **Tech:** Python, scikit-learn, XGBoost
-- **Results:** 94% accuracy on test data
-- **GitHub:** [View Repo](https://github.com/harshkoli21/credit-risk-model)
-
-### 🎯 Customer Purchase Prediction  
-Customer segmentation & recommendation system
-- **Tech:** Python, pandas, Supervised Learning
-- **Results:** Identified 5 customer segments
-- **GitHub:** [View Repo](https://github.com/harshkoli21/customer-prediction)
-
-### 🔄 ETL Data Pipeline
-Scalable pipeline processing 500K+ records daily
-- **Tech:** Python, PostgreSQL, Data Validation
-- **Impact:** 35% reduction in data errors
-- **GitHub:** [View Repo](https://github.com/harshkoli21/etl-pipeline)
-
-### 📊 Executive Analytics Dashboard
-Data visualization & storytelling for business intelligence
-- **Tech:** Power BI, SQL, Excel
-- **GitHub:** [View Repo](https://github.com/harshkoli21/analytics-dashboard)
-
-## 📈 GitHub Stats
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshkoli21&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkoli21&theme=dark)
-
-## 🔗 Let's Connect
-
-- **Portfolio:** [harshdayanandkoli.in](https://harshdayanandkoli.in)
-- **LinkedIn:** [harsh-koli21](https://linkedin.com/in/harsh-koli21)
-- **Email:** [harshkoli568@gmail.com](mailto:harshkoli568@gmail.com)
+[Portfolio](https://harshdayanandkoli.in/) · [LinkedIn](https://linkedin.com/in/harsh-koli21) · [Kaggle](https://www.kaggle.com/harshkoli21)
 
 ---
 
-💡 *Always open to collaborating on data engineering projects!*
+## Experience
+
+**AI & Data Engineering Extern** — Extern, Inc. (Outamation Project), Remote — *Dec 2025 – Present*
+- Built Python-based pipelines to extract structured data from unstructured sources for downstream analytics
+- Applied data quality validation and transformation across large datasets, ensuring accuracy and integrity for reporting and model consumption
+- Collaborated cross-functionally with engineering and analytics teams on scalable automation solutions
+- Handled PII-aware data processing in line with governance and compliance standards
+
+**Data Analyst Intern** — Trainity, Remote — *Sep 2023 – Dec 2023*
+- Analyzed structured datasets using Python, SQL, and Excel to identify trends and correlations across customer and business data
+- Performed data cleaning, validation, and preprocessing to improve reliability for downstream reporting
+- Translated analytical findings into business strategy recommendations for non-technical stakeholders
+
+## Education
+
+- **Postgraduate Diploma, Data Science** — University of Essex, UK (2025–2026)
+- **BE, Data Engineering** (2:1) — University of Mumbai (2021–2024)
+
+## Technical Skills
+
+| Category | Tools |
+|---|---|
+| Languages | Python (pandas, numpy, scikit-learn), SQL (PostgreSQL, PL/SQL), R, Excel |
+| Data Analysis | Data Cleaning, EDA, Feature Engineering, A/B Testing, Statistical Modelling |
+| Visualization / BI | Power BI, Matplotlib, Executive Dashboards |
+| Data Engineering | Scalable Data Pipelines, OCR Pipelines, API Data Collection |
+| Governance | Data Integrity, PII-Aware Handling, Responsible AI |
+
+## Featured Projects
+
+**[Credit Risk & Fraud Detection: Predictive Modelling](#)** — *Python, scikit-learn, XGBoost, SQL*
+Engineered features on transactional financial data and applied SMOTE resampling to address class imbalance; evaluated model performance across risk segments and communicated findings in business-readable terms.
+
+**[Customer Purchase Prediction & Recommendation System](#)** — *Python, Supervised Learning, pandas*
+Analyzed transactional customer data to identify purchasing behavior patterns and segment customers; translated model outputs into pricing and targeting recommendations.
+
+## Certifications & Simulations
+
+- Tata Group — Data Visualisation Job Simulation (Forage, 2024)
+- JPMorgan Chase — Investment Banking Job Simulation (Forage, 2024)
+
+---
+
+*Open to Data Analyst / Data Engineering opportunities — reach out via [LinkedIn](https://linkedin.com/in/harsh-koli21).*
